@@ -1,9 +1,11 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
+## D804 Advanced AI for Computer Scientists
 
-# WESTERN GOVERNORS UNIVERSITY
+### Install Dependencies
+pip install -r requirements.txt
 
-## D804 - ADVANCED AI FOR COMPUTER SCIENTISTS
+### Activate Virtual Environment
+source myenv/bin/activate
+python3 -m venv myenv
 
-Welcome to D804 Advanced AI for Computer Scientists!
-
-For specific task instructions and requirements for this assessment, please refer to the course page.
+### Start Jupyter Server
+jupyter notebook
